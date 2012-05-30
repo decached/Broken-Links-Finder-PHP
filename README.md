@@ -10,7 +10,7 @@ A web application(tool) that allows web developers to generate a report consisti
 
 ##Installation:
 	Clone the Repository.
-		'$ git clone https://github.com/Akashz/Broken-Links-Finder.git'
+		'$ git clone https://github.com/iAkashz/Broken-Links-Finder-PHP.git'
 
 ##Copyright and Licence
 
