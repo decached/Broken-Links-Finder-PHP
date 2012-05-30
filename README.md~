@@ -14,6 +14,9 @@ A web application(tool) that allows web developers to generate a report consisti
 	2. Dump the 'configdb.sql' into MySQL DBMS
 	3. Run Index.html to start the application
 
+	
+
+
 ##Copyright and Licence
 
 -2012 [JAKWorks](www.facebook.com/JAKWorks)
