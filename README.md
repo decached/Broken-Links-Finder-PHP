@@ -16,6 +16,6 @@ A web application(tool) that allows web developers to generate a report consisti
 
 ##Copyright and Licence
 
-2012 [JAKWorks](www.facebook.com/JAKWorks)
+2012 [JAKWorks](http://facebook.com/JAKWorks)
 
 Broken Links Finder by JAKWorks is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/)
